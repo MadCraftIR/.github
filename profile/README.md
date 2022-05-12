@@ -1,5 +1,5 @@
 <h1 align="center">We're MadCraft</h1>
-<h3 align="center">First Minecraft Server/Website located on Iran</h3>
+<h3 align="center">First Minecraft Server/Website located in Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madcraftir&label=Views&color=fe9b2a&style=flat" alt="madcraftir" /> </p>
 
