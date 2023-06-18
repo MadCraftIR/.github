@@ -1,9 +1,12 @@
-<h1 align="center">We're MadCraft</h1>
-<h3 align="center">First Minecraft Server/Website located in Iran</h3>
+<h1 align="center">We're MadCraft (2013-2023)</h1>
+<h2 align="center">First Iranian Minecraft Community / Powered by MadGames Network</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madcraftir&label=Views&color=fe9b2a&style=flat" alt="madcraftir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madcraftir&label=Views&color=f7d00a&style=flat" alt="madcraftgitstats" /> </p>
 
-- 👨‍💻 List Plugin/Repositories Team MadCraft [https://github.com/orgs/MadCraftIR/repositories](https://github.com/orgs/MadCraftIR/repositories)
+- 👨‍💻 List of our Plugins & Projects: [Click Here](https://github.com/orgs/MadCraftIR/repositories)
+- 🎞 Aparat: [Click Here](https://aparat.com/madcraft.ir)
+- 📞 Telegram: [Click Here](https://t.me/MadCraft)
+- 🔑 TeamSpeak: TS69.iR
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
