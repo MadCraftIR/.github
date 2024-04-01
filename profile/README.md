@@ -6,7 +6,6 @@
 - 👨‍💻 List of our Plugins & Projects: [Click Here](https://github.com/orgs/MadCraftIR/repositories)
 - 🎞 Aparat: [Click Here](https://aparat.com/madcraft.ir)
 - 📞 Telegram: [Click Here](https://t.me/MadCraft)
-- ☁️ Discord: [Click Here](https://discord.gg/MadCraft)
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
